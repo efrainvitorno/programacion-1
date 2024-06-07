@@ -15,4 +15,8 @@ Este proyecto tiene como objetivo implementar un algoritmo que aplique kernels a
   - **imagen de referencia**
     ![imagen de referencia](kerneels.png)
 - **Requisitos Previos**
-Necesitarás tener instaladas las librerías numpy y ??´opencv-python´. Puedes instalarlas usando pip:
+Necesitarás tener instaladas las librerías ``numpy`` y 
+ ``opencv-python``. Puedes instalarlas usando pip: 
+ ```bash
+ pip install numpy opencv-python
+```
