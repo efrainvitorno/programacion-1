@@ -12,6 +12,6 @@ Este proyecto tiene como objetivo implementar un algoritmo que aplique kernels a
 
 ## Instrucciones de Uso
 
-1. Clonar el repositorio.
+1. segun este sitio web que detalla .
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   https://setosa.io/ev/image-kernels/
