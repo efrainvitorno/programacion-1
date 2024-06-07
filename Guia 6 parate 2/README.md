@@ -1,3 +1,4 @@
+# Nombre: EFRAIN VITORINO MARIN COD: 160337
 # Implementación de Algoritmo para Aplicar Kernels en Imágenes
 
 ## Descripción del Proyecto
