@@ -1,3 +1,17 @@
-#Implementar un algoritmo para aplicar Kernels en una imagen cualquiera.
-#Mostrar en clases al docente
-#Realizar el informe de manera detallada
+# Implementación de Algoritmo para Aplicar Kernels en Imágenes
+
+## Descripción del Proyecto
+
+Este proyecto tiene como objetivo implementar un algoritmo que aplique kernels a una imagen cualquiera. El proceso y los resultados serán presentados al docente en clase, y se incluirá un informe detallado describiendo cada paso y los resultados obtenidos.
+
+## Contenido
+
+1. **Código Fuente**: Implementación del algoritmo en Python.
+2. **Informe Detallado**: Documento explicativo con todos los pasos y resultados.
+3. **Presentación**: Materiales para la exposición en clase.
+
+## Instrucciones de Uso
+
+1. Clonar el repositorio.
+   ```bash
+   git clone https://github.com/tuusuario/tu-repositorio.git
