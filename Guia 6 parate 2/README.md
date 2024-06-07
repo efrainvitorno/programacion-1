@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo implementar un algoritmo que aplique kernels a
 
 ## Contenido
 
-1. **Código Fuente**: Implementación del algoritmo en Python.
+1. **Código Fuente**: Implementación del algoritmo en Python.  utilizando **Spyder**
 2. **Informe Detallado**: Documento explicativo con todos los pasos y resultados.
 3. **Presentación**: Materiales para la exposición en clase.
 
