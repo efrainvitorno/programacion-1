@@ -116,7 +116,7 @@ print("   Este filtro es adecuado para eliminar el ruido de las imágenes manten
 ![variables](variables.png)
 ### Terminal 
 ![terminal](terminal.png)
-#codigo completo en python usando spyder y sus librerias 
+# codigo completo en python usando spyder y sus librerias 
 ```python
 from PIL import Image
 import numpy as np
