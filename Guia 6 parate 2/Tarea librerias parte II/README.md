@@ -11,3 +11,23 @@
 - **instalacion**
 
  ![instalacion de opencv](instalacion.png)
+ #### en caso de no funcionar 😪
+ Utilizando **Anaconda**  se proce a realizar las modificaciones 
+ - Busca la variable Path en la sección Variables del sistema y edítala.
+
+Agrega las siguientes rutas, si no están ya presentes:
+```
+C:\Users\lovito99\anaconda3
+C:\Users\lovito99\anaconda3\Scripts
+C:\Users\lovito99\anaconda3\Library\bin
+conda install matplotlib
+```
+# Explicacion del codigo
+- 1. Empesamos con la importacion de los modulos 
+ ```
+ import cv2
+import numpy as np
+```
+Es el módulo de **OpenCV**, una biblioteca muy popular para el procesamiento de imágenes.
+    **numpy:** 
+     Es una biblioteca fundamental para el cálculo numérico en Python, utilizada aquí para manejar matrices (o arrays).
