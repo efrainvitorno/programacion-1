@@ -17,6 +17,26 @@ Supongamos que aplicamos este kernel a una imagen:
 
 Imagen Original: La imagen tal cual se carga.
 Imagen Procesada: Después de aplicar el kernel de enfoque, los bordes y detalles se vuelven más prominentes.
+
+## Ejemplo 
+imagen de ejemplo
+```
+1 2 3
+4 5 6
+7 8 9
+```
+Kernel de Enfoque 3x3
+```  
+ 0 -1  0
+-1  5 -1
+ 0 -1  0
+ ```
+* Multiplicamos cada valor del kernel por el valor correspondiente del píxel:
+```
+ 0*1 + (-1)*2 +  0*3 +
+(-1)*4 +  5*5 + (-1)*6 +
+ 0*7 + (-1)*8 +  0*9
+```
  _______________________
   - Requisitos Previos
   #### Antes de comenzar, asegúrate de tener instaladas las librerías ``numpy`` y ``opencv-python`` Puedes instalarlas usando pip:
@@ -38,7 +58,7 @@ C:\Users\lovito99\anaconda3\Scripts
 C:\Users\lovito99\anaconda3\Library\bin
 conda install matplotlib
 ```
-# Explicacion del codigo**
+# Explicacion del codigo 🖥️
 - **1. Empesamos con la importacion de los modulos**
  ```
  import cv2
